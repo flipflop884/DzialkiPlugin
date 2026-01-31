@@ -1,0 +1,8 @@
+
+name: DzialkiPlugin
+version: 1.0
+main: me.dzialki.DzialkiPlugin
+api-version: 1.21
+commands:
+  dzialka:
+    description: Zarządzanie działkami
